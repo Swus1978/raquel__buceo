@@ -13,7 +13,7 @@
 
 
 .body {
-    background-image: url("/images/playa__del__carmen.jpg");
+    background-image: url(".../images/playa__del__carmen.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
